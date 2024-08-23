@@ -1,0 +1,39 @@
+{
+  "Version": 1,
+  "Hash": "dChiyvaZw3NRA2ywbIJOVAX/WP5ibe3+eBWx/9CBo+c=",
+  "Source": "WeatherAppUsingVC",
+  "BasePath": "_content/WeatherAppUsingVC",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "WeatherAppUsingVC\\wwwroot",
+      "Source": "WeatherAppUsingVC",
+      "ContentRoot": "C:\\AspNetCore\\WeatherAppUsingVC\\wwwroot\\",
+      "BasePath": "_content/WeatherAppUsingVC",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\AspNetCore\\WeatherAppUsingVC\\wwwroot\\StyleSheet.css",
+      "SourceId": "WeatherAppUsingVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\AspNetCore\\WeatherAppUsingVC\\wwwroot\\",
+      "BasePath": "_content/WeatherAppUsingVC",
+      "RelativePath": "StyleSheet.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\StyleSheet.css"
+    }
+  ]
+}
